@@ -8,10 +8,10 @@ exports.limitend = (pushname) => {
 	return`Maaf ${pushname} limit hari ini telah habis\nlimit di reset setiap jam 24:00`
 }
 exports.noregis = (pushname) =>{
-	return` 🙅‍♀️ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
+	return` 🙅‍♀️ Halo ${pushname} kakak belum daftar. Ketik .daftar dulu`
 	}
 exports.regis = () =>{
-	return` Lu udah daftar 😒`
+	return` kakak udah daftar 😒`
 	}
 exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 	return` *PENDAFTARAN BERHASIL*
@@ -27,10 +27,10 @@ fitur bot.
 `
 	}
 exports.owner = (botname) =>{
-	return` 🙅‍♀️ Command khusus owner ${botname}`
+	return` 🙅‍♀️ Khusus tuan Shion ${botname}`
 	}
 exports.admin = (groupName) =>{
-	return`🙅‍♀️ Command khusus admin ${groupName}`
+	return`🙅‍♀️ Khusus admin ${groupName}`
 	}
 exports.adminB = () =>{
 	return`⚠️ Bot bukan admin grup`
@@ -39,7 +39,7 @@ exports.err = () =>{
 	return`⚠️ Fitur ini sedang eror !`
 	}
 exports.group = () =>{
-	return`🙅‍♀️ Command khusus di dalam group`
+	return`🙅‍♀️ Khusus grub kak`
 	}
 
 exports.wait = () =>{
@@ -59,7 +59,7 @@ exports.welcome = () =>{
 exports.leave = () =>{
 	return`
 │
-╰─ ᝬ _Balik Lagi Wajib Donasi Ya_ >_<`
+╰─ ᝬ _Balik Lagi bawa makanan_ >_<`
 }
 exports.menu = (prefix, salam, pushname) =>{
 	return`Hi ${pushname}, selamat ${salam}
