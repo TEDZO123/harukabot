@@ -27,7 +27,7 @@ fitur bot.
 `
 	}
 exports.owner = (botname) =>{
-	return` 🙅‍♀️ Khusus tuan Shion ${botname}`
+	return` 🙅‍♀️ Khusus tuan ${botname}`
 	}
 exports.admin = (groupName) =>{
 	return`🙅‍♀️ Khusus admin ${groupName}`
