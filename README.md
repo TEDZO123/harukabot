@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://github.com/Ervan2525/harukabot/settings/haruka.jpg" alt="HARUKA BOT" width="200"/>
 
 <p align="center">
     <a href="https://zeeoneofc.github.io">
